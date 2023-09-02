@@ -10,9 +10,12 @@
 </div>
 <br>
 
-<img align="left" width="400" src="https://avatars.githubusercontent.com/u/82673962?v=4">
+<img align="left" width="400" src="https://i.pinimg.com/564x/82/13/d7/8213d7fa27beeb988e2e46ed8a1b0b7a.jpg">
 
-<hr>
+
+
+
+<br>
 
   <h3 align="left">Languages and Tools:</h3>
     <p align="center">
