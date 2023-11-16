@@ -1,15 +1,17 @@
 <div align="center">
-  <h2> Hi there I'm Nader 👋 </h2>
+  <h2> Hey I'm Nader Welcome To My Profile </h2>
 </div>
 
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=71F731&width=435&lines=%5C%5C+Welcome+to+My+Page+%5C%5C)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=543DF7&random=false&width=435&lines=Github+is+not+Cloud+Stoarge" alt="Typing SVG" />
+  </a>
 </div>
-<br>
+
 
 <div align="center">
-  <img width="400" src="https://i.pinimg.com/564x/82/13/d7/8213d7fa27beeb988e2e46ed8a1b0b7a.jpg">
+  <img width="400" src="https://i.pinimg.com/564x/b3/6b/78/b36b788af810f74780450f3b5d2e4a02.jpg">
 </div>
 
 <br>
@@ -30,5 +32,5 @@
 <br>
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iSw4Gi)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iSw4Gi&theme=tokyonight&border_radius=30&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
