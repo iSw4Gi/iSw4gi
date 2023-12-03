@@ -4,14 +4,13 @@
 
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=543DF7&random=false&width=435&lines=Github+is+not+Cloud+Stoarge" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A778F0E6&random=True&width=835&lines=Try+Me+and+don't+except+" alt="Typing SVG" />
+</a>
 </div>
 
 
 <div align="center">
-  <img width="400" src="https://i.pinimg.com/564x/b3/6b/78/b36b788af810f74780450f3b5d2e4a02.jpg">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
 
 <br>
