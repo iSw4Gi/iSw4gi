@@ -4,13 +4,13 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A778F0E6&random=True&width=835&lines=Try+Me+and+don't+except+" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=618ab6&random=True&width=835&lines=Try+Me+and+don't+except+" alt="Typing SVG" />
 </a>
 </div>
 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+  <img src="https://i.pinimg.com/736x/e5/7c/42/e57c4233b4888a5b656e89a39400d228.jpg">
 </div>
 
 <br>
